@@ -30,3 +30,9 @@ I'm an aspiring technical writer focused on API documentation, currently buildin
 I'm early in my technical writing journey and excited to learn and grow in this field. Open to connecting with other writers, devs, and documentation specialists who value thoughtful, user-centered content.
 
 Let's build better docs, together!
+
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)       *ADD LATER-->
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
